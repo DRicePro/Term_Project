@@ -1,9 +1,1 @@
-Welcome !!    !!
-
-
-
-This is the ReadME
-
-
-
-A great place to be
+Term Project Answers -  Adv Software for Economics
